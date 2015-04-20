@@ -1,0 +1,16 @@
+[
+{
+  "modid": "fairitempickup",
+  "name": "Fair Item Pickup",
+  "description": "A Mod that restricts Item pickup. You are allowed to pick items up that you have droped or that droped from mobs that you killed",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "de.fansana.fairitempickup",
+  "updateUrl": "de.fansana.pickup",
+  "authorList": ["jake_stafunk"],
+  "credits": "jake_stafunk",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
