@@ -21,7 +21,7 @@ repositories {
 	mavenLocal()
 } 
 
-// Define properties file
+// Define properties file.
 ext.configFile = file "build.properties"
 
 configFile.withReader {
